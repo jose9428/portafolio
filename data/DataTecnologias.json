@@ -1,0 +1,89 @@
+{
+    "data": [
+        {
+            "img": "icon/angular.png",
+            "nombre": "Angular"    
+        },
+        {
+            "img": "icon/react.jpg",
+            "nombre": "React JS"    
+        },
+        {
+            "img": "icon/vue.png",
+            "nombre": "Vue"    
+        },
+        {
+            "img": "icon/javascript.jpg",
+            "nombre": "Javascript"    
+        },
+        {
+            "img": "icon/css.png",
+            "nombre": "CSS"    
+        },
+        {
+            "img": "icon/html5.png",
+            "nombre": "Html5"    
+        },
+        {
+            "img": "icon/boostrap.png",
+            "nombre": "Bootstrap"    
+        },
+        {
+            "img": "icon/github.svg",
+            "nombre": "Github"    
+        },
+        {
+            "img": "icon/c_pluss.png",
+            "nombre": "C++"    
+        },
+        {
+            "img": "icon/c.png",
+            "nombre": "C"    
+        },
+        {
+            "img": "icon/cSharp.png",
+            "nombre": "C#"    
+        },
+        {
+            "img": "icon/php.png",
+            "nombre": "Php"    
+        },
+        {
+            "img": "icon/python.png",
+            "nombre": "Python"    
+        },
+        {
+            "img": "icon/java.png",
+            "nombre": "Java"    
+        },
+        {
+            "img": "icon/net.png",
+            "nombre": ".NET"    
+        },
+        {
+            "img": "icon/android.png",
+            "nombre": "Android Studio"    
+        },
+        {
+            "img": "icon/spring_boot.webp",
+            "nombre": "Spring Boot"    
+        },
+        {
+            "img": "icon/oracle.png",
+            "nombre": "Oracle"    
+        },
+        {
+            "img": "icon/sql_server.webp",
+            "nombre": "SQL Server"    
+        },
+        {
+            "img": "icon/mysql.png",
+            "nombre": "MySQL"    
+        },
+        {
+            "img": "icon/postgre.png",
+            "nombre": "PostgreSQL"    
+        }
+
+    ]    
+}

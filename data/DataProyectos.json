@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "img": "proyectos/proyecto1.png",
+            "nombre": "Sistema Web Portal Estudiantil",
+            "detalle": "Proyecto realizado para impartir un curso online de Spring Boot a estudiantes de la UTP, curso desarrollado y dictado por mi persona.",
+            "video": true,
+            "link_video": "https://drive.google.com/file/d/1_BVCQZG90djyN3lRc5nkTJcY4JaV2ZvL/preview",
+            "github": false,
+            "link_github": "",
+            "imagenes": [
+                "P1/P1_0001 (1).png",
+                "P1/P1_0001 (2).png",
+                "P1/P1_0001 (3).png",
+                "P1/P1_0001 (4).png",
+                "P1/P1_0001 (5).png",
+                "P1/P1_0001 (6).png",
+                "P1/P1_0001 (7).png",
+                "P1/P1_0001 (8).png",
+                "P1/P1_0001 (9).png",
+                "P1/P1_0001 (10).png",
+                "P1/P1_0001 (11).png",
+                "P1/P1_0001 (12).png",
+                "P1/P1_0001 (13).png",
+                "P1/P1_0001 (14).png",
+                "P1/P1_0001 (15).png",
+                "P1/P1_0001 (16).png",
+                "P1/P1_0001 (17).png",
+                "P1/P1_0001 (18).png",
+                "P1/P1_0001 (19).png",
+                "P1/P1_0001 (20).png",
+                "P1/P1_0001 (21).png",
+                "P1/P1_0001 (22).png",
+                "P1/P1_0001 (23).png",
+                "P1/P1_0001 (24).png",
+                "P1/P1_0001 (25).png",
+                "P1/P1_0001 (26).png",
+                "P1/P1_0001 (27).png",
+                "P1/P1_0001 (28).png",
+                "P1/P1_0001 (29).png"
+            ]
+        }
+    ]
+}
